@@ -127,6 +127,9 @@ Think about the setting of the device: is the environment a place where the devi
 
 \*\***Take a video of your prototyped interaction.**\*\*
 
+Recorded Interaction - "Hazard avoidance" - https://drive.google.com/file/d/1S_fQW997w7slwPs2DFeN8NwzMo5rWI3v/view?usp=sharing
+Recorded Interaction - "Hot iron" - https://drive.google.com/file/d/1SQDfg9O6Orv-Su95APfTYaTrBAKjNZge/view?usp=sharing
+
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
