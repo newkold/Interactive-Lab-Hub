@@ -57,6 +57,8 @@ Labs are due on Mondays. Make sure this page is linked to on your main class hub
 
 ## Part A. Plan 
 
+Storyboard - https://drive.google.com/file/d/1aze0KJxDeAqTfg00r7Ts6AnLKgzjsSa3/view?usp=sharing
+
 To stage an interaction with your interactive device, think about:
 
 _Setting:_ Where is this interaction happening? (e.g., a jungle, the kitchen) When is it happening?
